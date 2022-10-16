@@ -1,0 +1,13 @@
+AlbumName   ,  ArtistName   , Genre    , Rating , Price
+FlowerBoy   /  Tyler        / Indie    /9      /40
+Redlight    /  Bladee       / Rap      /8      / 25
+Currents    /  TameImpala   / Indie    /10     / 45
+LiveLoveAsap/  AsapRocky    / Rap      / 10     / 25
+Rodeo       /  TravisScott  / Rap      / 10     / 65
+Ginger      /  Brockhampton / Pop      / 7      / 50
+Tiger       /  ThaiBoy      / Pop      / 9      / 20
+D&G         /  DrainGang    / Pop      / 8      / 35
+PXE         /  Ecco2k       / Pop      / 8      / 20
+Trilogy     /  TheWeeknd    / R&B      / 9      / 35
+Blonde      /  FrankOcean   / Pop      / 9      / 40
+Veteran     /  JPEGMAFIA    / Rap      / 8      / 20
